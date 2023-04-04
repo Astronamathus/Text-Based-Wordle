@@ -3,7 +3,7 @@ import java.io.*;
 class Wordel
 {
     public static void main()
-    {
+    { 
         char letter, letter_guess, other_letters; 
         boolean flag = false;
         String word, guess;
